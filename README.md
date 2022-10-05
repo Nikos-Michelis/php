@@ -1,4 +1,4 @@
-This is a simple PHP registration and login form with account verification.
+This is a simple PHP registration and login form with account verification and SQL-injection mechanism.
 
 Feature updates:
 
