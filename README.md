@@ -1,7 +1,9 @@
 This is a simple PHP registration and login form with account verification.
 Feature updates:
-•	Add Forgotten Password System.!["\n"].
+•	Add Forgotten Password System
+
 •	Fixing bugs in verification system 
+
 •	Convert Mysqli to PDO connection
 
 ![PHP app](https://user-images.githubusercontent.com/92666389/194111556-bc9cbc95-756b-4c07-8bde-ebe2ee06e18a.png)
