@@ -1,11 +1,5 @@
 Simple PHP registration and login form with account verification and SQL-injection mechanism.
 
-Feature updates:
-
-•	Add Forgotten Password System 
-
-•	Convert Mysqli to PDO connection
-
 ![PHP app](https://user-images.githubusercontent.com/92666389/194111556-bc9cbc95-756b-4c07-8bde-ebe2ee06e18a.png)
 ![register](https://user-images.githubusercontent.com/92666389/194112060-7423076b-12d1-4236-bc44-420009e8421f.png)
 ![verificationEmail](https://user-images.githubusercontent.com/92666389/194112141-3d983b07-7042-4dea-a3cb-84afb953a70c.png)
