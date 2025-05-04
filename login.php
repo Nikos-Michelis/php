@@ -35,7 +35,7 @@
                           //ERROR MESSAGES//
                         if(isset($_GET["error"])){
                             if($_GET["error"] == "emptyInput"){
-                                echo '<p style="color:red;">Fill in all fields!</p>';
+                                echo '<p style="color:red;">You should fill all form fields!</p>';
                             }else if($_GET["error"] == "wronglogin"){
                                 echo"<p>Wrong user or password!</p>";
                             }
